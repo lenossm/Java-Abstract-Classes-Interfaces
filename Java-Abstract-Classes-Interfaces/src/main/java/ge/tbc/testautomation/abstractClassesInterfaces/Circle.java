@@ -46,7 +46,6 @@ public class Circle extends Figure implements IResizable, IValidFigure {
     private boolean validateFigure(double radius) {
         return radius > 0;
     }
-
-    System.out.println("Hotfix branch modification!");
+System.out.println("Final merged version!");
 
 }
